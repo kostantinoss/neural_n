@@ -66,3 +66,7 @@ This is simply done by compiling (i used gcc) and running the excecutables.
 * generate2.c generates the training and test set tha kmeans.c and lvq.c use
 
 The next step is to compile and run the programs. Simple as that
+
+##TO-DO
+- [ ] Organize files
+- [ ] make file
