@@ -69,4 +69,4 @@ The next step is to compile and run the programs. Simple as that
 
 ## TO-DO
 - [ ] Organize files
-- [ ] make file
+- [ ] Add a Makefile
