@@ -67,6 +67,6 @@ This is simply done by compiling (i used gcc) and running the excecutables.
 
 The next step is to compile and run the programs. Simple as that
 
-##TO-DO
+## TO-DO
 - [ ] Organize files
 - [ ] make file
