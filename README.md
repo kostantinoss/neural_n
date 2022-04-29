@@ -1,7 +1,7 @@
-### Semester project for undergraduate course:
+<!-- # Semester project for undergraduate course: -->
 
-### MYE035 Computational Intelligence
-[Department of Computer Science & Engineering, University of Ioannina](https://www.cs.uoi.gr/?lang=en)
+# Computational Intelligence algorithms
+Semester project for undergraduate course [MYE035 Computational Intelligence](https://www.cs.uoi.gr/course/computational-intelligence/?lang=en)
 
 ## Technologies
   * C
